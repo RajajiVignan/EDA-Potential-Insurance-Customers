@@ -3,7 +3,7 @@
 ## About Data
   The Dataset is about the potential Insurance Buyers. The purpose of this project is to predict whether a person is willing to buy or not. The dataset is made possible with the resources provided in a Hack-a-thon (Analytics Vidya). Thanks to them for the opportunity.
   
-  More info about the data is found in data.txt
+  More info about the data is found in data.md
   
 
 ## Initial plan for Data Exploration:
