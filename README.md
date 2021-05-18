@@ -16,5 +16,31 @@
 ## Data Exploration
 
 ### Univariate Analysis:
-  ! [Univariate analysis](https://github.com/RajajiVignan/EDA-Potential-Insurance-Customers/blob/main/images/1.png)
+<p> Understanding the Recovered Insurance types. By the count plot, it's clear that there are more individual account in the dataset.</p>
+<img src="/images/1.png" alt="drawing" width="400" height="300"/>
 
+<br>
+
+<p>After that, it is necessary to analyze the distribution of the customers among the cities mentioned with the help of a seaborn countplot.</p>
+<img src="/images/2.png" alt="drawing" width="700" height="400"/>
+
+<br>
+
+<p> In the process, the distribution of the policy premium recovered so far is found out to be right skewed.</p>
+<img src="/images/3.png" alt="drawing" width="400" height="300" />
+<br>
+
+### Multi-variate Analysis
+<p> Explored the the policy type and their percentages at which the customers bought while comparing them whether the customer is individual or joint account holder</p>
+<img src="/images/4.png" alt="drawing" width="600" height="400"/>
+<br>
+
+<p> Also, found out the goldilock zone of the duration of policy holders to buy another policy. </p>
+<img src="/images/5.png" alt="drawing" width="700" height="400"/>
+<br>
+
+<p> A compilation of different plots using seaborn pair plots </p>
+<img src="/images/6.png" alt="drawing" width="800" height="700"/>
+
+
+The detailed insights from EDA is mentioned in the notebook.
