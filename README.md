@@ -16,5 +16,5 @@
 ## Data Exploration
 
 ### Univariate Analysis:
-  
+  ! [Univariate analysis](https://github.com/RajajiVignan/EDA-Potential-Insurance-Customers/blob/main/images/1.png)
 
